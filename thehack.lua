@@ -10,4 +10,4 @@
   made by: Racemodex#0001
   discord: https://discord.gg/racecodex
 ]]
-loadstring(game:HttpGet("https://pastebin.com/raw/AqLV4Wii", true))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/mainpaste-ro/dahoodhack/main/main.hack.synapse-x-and-krnl.olny.lua", true))()
