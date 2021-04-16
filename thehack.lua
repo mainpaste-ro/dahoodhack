@@ -10,4 +10,4 @@
   made by: Racemodex#0001
   discord: https://discord.gg/racecodex
 ]]
-loadstring(game:HttpGet("https://pastebin.com/raw/Ghg5TARz", true))()
+loadstring(game:HttpGet("https://pastebin.com/raw/AqLV4Wii", true))()
