@@ -6,7 +6,7 @@
 ]]
 --[[ info script:
   game: https://web.roblox.com/games/2788229376/
-  download script: https://pastebin.pl/view/download/e7e88aa9
+  download script: https://pastebin.com/dl/cEyr7DAk
   made by: Racemodex#0001
   discord: https://discord.gg/racecodex
 ]]
